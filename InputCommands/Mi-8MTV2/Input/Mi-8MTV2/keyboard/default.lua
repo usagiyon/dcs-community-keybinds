@@ -1031,12 +1031,12 @@ return {
 		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_7, up = device_commands.Button_7, value_down = 0, value_up = 1, name = _('SPU-7 Network Switch - 2 else 1 (2-way Switch)'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
 		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_7, up = device_commands.Button_7, value_down = 1, value_up = 0, name = _('SPU-7 Network Switch - 1 else 2 (2-way Switch)'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
 
-		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_17, value_down = 0, name = _('SPU-7 Radio Source Select Rotary - R-863'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
-		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_17, value_down = 0.1, name = _('SPU-7 Radio Source Select Rotary - JADRO-1A'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
-		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_17, value_down = 0.2, name = _('SPU-7 Radio Source Select Rotary - R-828'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
-		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_17, value_down = 0.3, name = _('SPU-7 Radio Source Select Rotary - NF'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
-		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_17, value_down = 0.4, name = _('SPU-7 Radio Source Select Rotary - ARC-9'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
-		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_17, value_down = 0.5, name = _('SPU-7 Radio Source Select Rotary - ARC-UD'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
+		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_3, value_down = 0, name = _('SPU-7 Radio Source Select Rotary - R-863'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
+		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_3, value_down = 0.1, name = _('SPU-7 Radio Source Select Rotary - JADRO-1A'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
+		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_3, value_down = 0.2, name = _('SPU-7 Radio Source Select Rotary - R-828'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
+		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_3, value_down = 0.3, name = _('SPU-7 Radio Source Select Rotary - NF'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
+		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_3, value_down = 0.4, name = _('SPU-7 Radio Source Select Rotary - ARC-9'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
+		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_3, value_down = 0.5, name = _('SPU-7 Radio Source Select Rotary - ARC-UD'), category = {_('SPU-7 Intercom Panels'), _('Custom')}},
 
 		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_6, up = device_commands.Button_6, value_down = 0, value_up = 1, name = _('Laryngophone Switch - OFF else ON (2-way Switch)'), category = {_('Right Triangular Panel'), _('Communications'), _('Custom')}},
 		{cockpit_device_id = devices.SPU_7, down = device_commands.Button_6, up = device_commands.Button_6, value_down = 1, value_up = 0, name = _('Laryngophone Switch - ON else OFF (2-way Switch)'), category = {_('Right Triangular Panel'), _('Communications'), _('Custom')}},
